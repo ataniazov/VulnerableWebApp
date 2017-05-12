@@ -1,5 +1,4 @@
 # Zayıf Web Uygulaması (Vulnerable Web Application)
-- - -
 
 ## Doküman
 
