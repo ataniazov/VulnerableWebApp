@@ -1,4 +1,4 @@
-# Zayıf Web Uygulaması
+# Zayıf Web Uygulaması (Vulnerable Web Application)
 - - -
 
 ## Doküman
@@ -26,7 +26,7 @@ GNU Genel Kamu Lisansı'nın bir kopyası bu yazılımla birlikte almışsınız
 
 ## İndir
 
-Uygulamamız github üzerinden geliştirilyor ve dağıtılyor ve [Github Link](https://github.com/ataniazov/Zayif-Web-Uygulamasi/archive/master.zip) indirebilirsiniz veya bilgisayarınızda git kuruluysa:
+Uygulamamız github üzerinden geliştirilyor ve dağıtılyor ve [Github Link](https://github.com/ataniazov/VulnerableWebApp/archive/master.zip) indirebilirsiniz veya bilgisayarınızda git kuruluysa:
 
 ```bash
 git clone https://github.com/ataniazov/Zayif-Web-Uygulamasi.git
@@ -40,7 +40,7 @@ Zayıf Web Uygulamasını kurmanın en kolay yolu [XAMPP](https://www.apachefrie
 
 XAMPP [https://www.apachefriends.org/](https://www.apachefriends.org/) linkinden indirebilirsiniz.
 
-[Github Link](https://github.com/ataniazov/Zayif-Web-Uygulamasi/archive/master.zip) uygulamamızın sıkıştırılmış dosyasını çıkartıp, XAMPP uygulamasının genel html klasörüne yerleştirin, ardından tarayıcınıza aşağıdaki adresi giriniz:
+[Github Link](https://github.com/ataniazov/VulnerableWebApp/archive/master.zip) uygulamamızın sıkıştırılmış dosyasını çıkartıp, XAMPP uygulamasının genel html klasörüne yerleştirin, ardından tarayıcınıza aşağıdaki adresi giriniz:
 [http://127.0.0.1/](http://127.0.0.1/)
 
 ### Ubuntu + XAMPP
@@ -77,7 +77,7 @@ $_DNRDB[ 'db_port '] = '3306';
 
 ## Sorun giderme
 
-En son sorun giderme bilgileri için lütfen [Github Issues](https://github.com/ataniazov/Zayif-Web-Uygulamasi/issues) ziyaret edin.
+En son sorun giderme bilgileri için lütfen [Github Issues](https://github.com/ataniazov/VulnerableWebApp/issues) ziyaret edin.
 
 ```
 In open source, no one can hear you scream;)
@@ -88,7 +88,7 @@ Please use Google before asking questions.
 
 ## Bağlantılar
 
-Proje Ana Sayfası: [https://github.com/ataniazov/Zayif-Web-Uygulamasi/](https://github.com/ataniazov/Zayif-Web-Uygulamasi/)
+Proje Ana Sayfası: [https://github.com/ataniazov/VulnerableWebApp/](https://github.com/ataniazov/VulnerableWebApp/)
 
 *Ata Niyazov tarafından yazılmış ve geliştirilmiştir*
 - - -
