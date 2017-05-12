@@ -94,7 +94,7 @@
 
             <div class="tab-content">
               <div id="instruction" class="tab-pane fade in active">
-                <h2>Doküman <a href="docs/Zayıf-Web-Uygulaması_v1.0.1.pdf"><small>(.pdf)</small></a></h2>
+                <h2>Doküman <a href="docs/Zayıf-Web-Uygulaması_v1.0.2.pdf"><small>(.pdf)</small></a></h2>
                 <hr class="webapp-hr">
                 <p><strong>Zayıf Web Uygulaması</strong> web uygulama güvenliği alanında kendini geliştirmek isteyen pentesterlar ve güvenlik ile uğraşan kimseler için PHP ile oluşturulmuş içinde belli web zafiyetlerini barındıran bir eğitim sistemidir.</p>
                 <p>Bu proje Kocaeli Üniversitesinin Bilgisayar Mühendisligi bölümünündeki Yazılım Laboratuvarı 2 (Proje III) ders projesi kapsamında geliştirilmiştir. Güvenlik uzmanlarının arasında meşhur Damn Vulnerable Web Application (DVMA) zayıf web
@@ -123,7 +123,7 @@
                 <hr />
                 <h3>İndir</h3>
                 <p>
-                  Uygulamamız github üzerinden geliştirilyor ve dağıtılyor ve <a class="webapp-text" href="https://github.com/ataniazov/Zayif-Web-Uygulamasi/archive/master.zip"><strong>Github Link</strong></a> indirebilirsiniz veya bilgisayarınızda git
+                  Uygulamamız github üzerinden geliştirilyor ve dağıtılyor ve <a class="webapp-text" href="https://github.com/ataniazov/VulnerableWebApp/archive/master.zip"><strong>Github Link</strong></a> indirebilirsiniz veya bilgisayarınızda git
                   kuruluysa:
                 </p>
                 <pre class="bash" style="font-family:monospace;"><span style="color: #c20cb9; font-weight: bold;">git clone</span> https:<span style="color: #000000; font-weight: bold;">//</span>github.com<span style="color: #000000; font-weight: bold;">/</span>ataniazov<span style="color: #000000; font-weight: bold;">/</span>Zayif-Web-Uygulamasi.git</pre>
@@ -139,7 +139,7 @@
                   XAMPP <a class="webapp-text" href="https://www.apachefriends.org/"><strong>https://www.apachefriends.org/</strong></a> linkinden indirebilirsiniz.
                 </p>
                 <p>
-                  <a class="webapp-text" href="https://github.com/ataniazov/Zayif-Web-Uygulamasi/archive/master.zip"><strong>Github Link</strong></a> uygulamamızın sıkıştırılmış dosyasını çıkartıp, XAMPP uygulamasının genel html klasörüne yerleştirin,
+                  <a class="webapp-text" href="https://github.com/ataniazov/VulnerableWebApp/archive/master.zip"><strong>Github Link</strong></a> uygulamamızın sıkıştırılmış dosyasını çıkartıp, XAMPP uygulamasının genel html klasörüne yerleştirin,
                   ardından tarayıcınıza aşağıdaki adresi giriniz:
                 </p>
                 <pre class="html4strict" style="font-family:monospace;">http://127.0.0.1/</pre>
@@ -175,7 +175,7 @@
                 <br />
                 <h4>Sorun giderme</h4>
                 <p>
-                  En son sorun giderme bilgileri için lütfen <a class="webapp-text" href="https://github.com/ataniazov/Zayif-Web-Uygulamasi/issues"><strong>Github Issues</strong></a> ziyaret edin.
+                  En son sorun giderme bilgileri için lütfen <a class="webapp-text" href="https://github.com/ataniazov/VulnerableWebApp/issues"><strong>Github Issues</strong></a> ziyaret edin.
                 </p>
                 <blockquote>
                   In open source, no one can hear you scream;)
@@ -184,7 +184,7 @@
                 <hr />
                 <h3>Bağlantılar</h3>
                 <p>
-                  Proje Ana Sayfası: <a class="webapp-text" href="https://github.com/ataniazov/Zayif-Web-Uygulamasi/"><strong>https://github.com/ataniazov/Zayif-Web-Uygulamasi/</strong></a>
+                  Proje Ana Sayfası: <a class="webapp-text" href="https://github.com/ataniazov/VulnerableWebApp/"><strong>https://github.com/ataniazov/VulnerableWebApp/</strong></a>
                 </p>
                 <i>Ata Niyazov tarafından yazılmış ve geliştirilmiştir</i>
                 <hr />
