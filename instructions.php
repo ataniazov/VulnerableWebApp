@@ -126,7 +126,7 @@
                   Uygulamamız github üzerinden geliştirilyor ve dağıtılyor ve <a class="webapp-text" href="https://github.com/ataniazov/VulnerableWebApp/archive/master.zip"><strong>Github Link</strong></a> indirebilirsiniz veya bilgisayarınızda git
                   kuruluysa:
                 </p>
-                <pre class="bash" style="font-family:monospace;"><span style="color: #c20cb9; font-weight: bold;">git clone</span> https:<span style="color: #000000; font-weight: bold;">//</span>github.com<span style="color: #000000; font-weight: bold;">/</span>ataniazov<span style="color: #000000; font-weight: bold;">/</span>Zayif-Web-Uygulamasi.git</pre>
+                <pre class="bash" style="font-family:monospace;"><span style="color: #c20cb9; font-weight: bold;">git clone</span> https:<span style="color: #000000; font-weight: bold;">//</span>github.com<span style="color: #000000; font-weight: bold;">/</span>ataniazov<span style="color: #000000; font-weight: bold;">/</span>VulnerableWebApp.git</pre>
 
                 <hr />
                 <h3>Kurulum</h3>
